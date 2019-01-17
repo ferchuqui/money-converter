@@ -4,10 +4,6 @@ const CURRENCIES = [
     cacheTime: 24 * 60 * 60
   },
   {
-    name: 'CLP',
-    cacheTime: 24 * 60 * 60
-  },
-  {
     name: 'USD',
     cacheTime: 24 * 60 * 60
   },
@@ -16,11 +12,7 @@ const CURRENCIES = [
     cacheTime: 24 * 60 * 60
   },
   {
-    name: 'GBP',
-    cacheTime: 24 * 60 * 60
-  },
-  {
-    name: 'BRL',
+    name: 'PYG',
     cacheTime: 24 * 60 * 60
   }
 ]
